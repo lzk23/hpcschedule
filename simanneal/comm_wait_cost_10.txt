@@ -1,0 +1,10 @@
+ep:1, comm. cost: 31350, waiting. cost: 105.0
+ep:2, comm. cost: 32107, waiting. cost: 237.0
+ep:3, comm. cost: 32336, waiting. cost: 225.0
+ep:4, comm. cost: 30779, waiting. cost: 49.0
+ep:5, comm. cost: 29262, waiting. cost: 119.0
+ep:6, comm. cost: 31782, waiting. cost: 426.0
+ep:7, comm. cost: 33943, waiting. cost: 91.0
+ep:8, comm. cost: 28823, waiting. cost: 13.0
+ep:9, comm. cost: 31227, waiting. cost: 273.0
+ep:10, comm. cost: 31910, waiting. cost: 318.0
