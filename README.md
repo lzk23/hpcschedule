@@ -15,7 +15,7 @@ Jobs on high-performance computing (HPC) clusters can suffer significant perform
 
 To plot Fig. 4, please run: python PPO/plot_graph.py
 
-![](./fig/fig4.png)
+![Comparison for the NN architectures of RL](./fig/Fig4.png)
 
 ## Comparison of SA and NSA, SCIP and NSA
 
@@ -35,7 +35,7 @@ To get the results of Fig.5, please run:
 To plot Fig. 5, please run:
 python result/NetandStep/boxline.png
 
-![](./fig/fig5.png)
+![Comparison of SA and NSA, SCIP and NSA](./fig/Fig5.png)
 
 
 ## Comparison of different scheduling methods
@@ -55,6 +55,6 @@ To get the results of Fig. 6:
 To plot Fig.6, please run:
 python simanneal/plot_box.py
 
-![](./fig/fig6.png)
+![Comparison of different scheduling methods](./fig/Fig6.png)
 
 
